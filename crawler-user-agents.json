@@ -4,7 +4,8 @@
     "url": "http://www.google.com/bot.html",
     "instances": [
       "Googlebot/2.1 (+http://www.google.com/bot.html)",
-      "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+      "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)", 
+      "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 como Mac OS X) AppleWebKit/605.1.15 (KHTML, como Gecko) Mobile/20F75 Instagram 290.1.0.16.77 (iPhone12,1; iOS 16_5_1; pt_BR; pt; scale=2.00; 828x1792; 491279855) NW/3 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
       "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
